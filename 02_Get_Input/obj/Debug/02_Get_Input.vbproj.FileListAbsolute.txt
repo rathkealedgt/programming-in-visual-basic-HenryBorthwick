@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.
 C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\02_Get_Input\obj\Debug\02_Get_Input.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\bin\Debug\02_Get_Input.exe.config
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\bin\Debug\02_Get_Input.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\bin\Debug\02_Get_Input.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\bin\Debug\02_Get_Input.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\02_Get_Input.vbprojAssemblyReference.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\_02_Get_Input.Resources.resources
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\02_Get_Input.vbproj.GenerateResource.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\02_Get_Input.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\02_Get_Input.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\02_Get_Input.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\02_Get_Input\obj\Debug\02_Get_Input.pdb
