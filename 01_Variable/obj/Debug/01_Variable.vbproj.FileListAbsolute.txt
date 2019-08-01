@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.vb
 C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\01_Variable\obj\Debug\01_Variable.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\bin\Debug\01_Variable.exe.config
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\bin\Debug\01_Variable.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\bin\Debug\01_Variable.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\bin\Debug\01_Variable.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\01_Variable.vbprojAssemblyReference.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\_01_Variable.Resources.resources
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\01_Variable.vbproj.GenerateResource.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\01_Variable.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\01_Variable.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\01_Variable.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\01_Variable\obj\Debug\01_Variable.pdb
