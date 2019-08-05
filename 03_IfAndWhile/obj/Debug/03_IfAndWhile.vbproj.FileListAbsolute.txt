@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhil
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\03_IfAndWhile\obj\Debug\03_IfAndWhile.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\bin\Debug\03_IfAndWhile.exe.config
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\bin\Debug\03_IfAndWhile.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\bin\Debug\03_IfAndWhile.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\bin\Debug\03_IfAndWhile.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbprojAssemblyReference.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\_03_IfAndWhile.Resources.resources
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbproj.GenerateResource.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\03_IfAndWhile.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\03_IfAndWhile.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\03_IfAndWhile.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\03_IfAndWhile\obj\Debug\03_IfAndWhile.pdb
