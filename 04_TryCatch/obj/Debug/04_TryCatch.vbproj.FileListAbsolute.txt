@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.vb
 C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\bin\Debug\04_TryCatch.exe.config
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\bin\Debug\04_TryCatch.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\bin\Debug\04_TryCatch.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\bin\Debug\04_TryCatch.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\04_TryCatch.vbprojAssemblyReference.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\_04_TryCatch.Resources.resources
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\04_TryCatch.vbproj.GenerateResource.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\04_TryCatch.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\04_TryCatch.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\04_TryCatch.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\04_TryCatch\obj\Debug\04_TryCatch.pdb
