@@ -6,35 +6,46 @@
 Module Module1
 
     Sub Main()
+        'House Keeping
+        Dim UserResponse As Integer
+
+        UserResponse = IntegerCheek(1, 5)
+        Console.WriteLine("You entered the vaild number {0}.", UserResponse)
+
+        UserResponse = IntegerCheek(20, 40)
+        Console.WriteLine("You entered the vaild number {0}.", UserResponse)
+
+        Console.ReadLine()
+
+    End Sub
+
+    Function IntegerCheek(LowNumber As Integer, HighNumber As Integer) As Integer
         'Housekeeping
         Dim UserResponse As Integer
         Const ERROR_MESSAGE As String = "Please enter an integer"
         Dim ValidInput As Boolean = False
+        Dim OUTPUT_MESSAGE As String = String.Format("Please enter an integer between {0} and {1}.", LowNumber, HighNumber)
 
         While Not ValidInput
 
             Try
                 ' Ask user for a number and store it.
-                Console.WriteLine("Please enter an integer between 1 and 10.")
+                Console.WriteLine(OUTPUT_MESSAGE)
                 UserResponse = Console.ReadLine()
 
-                If 1 <= UserResponse And UserResponse <= 10 Then
+                If LowNumber <= UserResponse And UserResponse <= HighNumber Then
                     ValidInput = True
                 End If
 
             Catch ex As Exception
                 Console.WriteLine(ERROR_MESSAGE)
-                Console.ReadLine()
+
 
             End Try
         End While
 
-        ' Pause the program to view output.
-        Dim Output As String = String.Format("You have entered the number {0}.", UserResponse.ToString)
-            Console.WriteLine(Output)
-            Console.ReadLine()
+        'Pause program to view response
+        Return UserResponse
 
-
-    End Sub
-
+    End Function
 End Module
