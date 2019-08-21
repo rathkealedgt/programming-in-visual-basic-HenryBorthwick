@@ -22,6 +22,32 @@ LuckyUnicorn
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="M:LuckyUnicorn.Luckey_Unicorn_V1.IntegerCheck(System.Int32,System.Int32)">
+ <summary>
+     Integer checking function. Checks if user input is an integer between the values given.  And asks for how much they want to play with
+ </summary>
+ <param name="LowNumber"> Lower bound of the valid range. </param>
+ <param name="HighNumber"> Upper bound of the valid range. </param>
+ <returns> The valid user input as an integer. </returns>
+</member>
+<member name="M:LuckyUnicorn.Luckey_Unicorn_V1.GetToken">
+ <summary>
+ Generate token biased towards house
+ </summary>
+</member>
+<member name="M:LuckyUnicorn.LuckeyUnicornV_2.IntegerCheck(System.Int32,System.Int32)">
+ <summary>
+     Integer checking function. Checks if user input is an integer between the values given.  And asks for how much they want to play with
+ </summary>
+ <param name="LowNumber"> Lower bound of the valid range. </param>
+ <param name="HighNumber"> Upper bound of the valid range. </param>
+ <returns> The valid user input as an integer. </returns>
+</member>
+<member name="M:LuckyUnicorn.LuckeyUnicornV_2.GetToken">
+ <summary>
+ Generate token biased towards house
+ </summary>
+</member>
 <member name="M:LuckyUnicorn.Module1.Main">
  <summary>
      Lucky Unicorn Decomposition Task 1
@@ -37,6 +63,30 @@ LuckyUnicorn
  <param name="LowNumber"> Lower bound of the valid range. </param>
  <param name="HighNumber"> Upper bound of the valid range. </param>
  <returns> The valid user input as an integer. </returns>
+</member>
+<member name="M:LuckyUnicorn.Module25.Main">
+ <summary>
+     Lucky Unicorn Decomposition Task 1
+     Generate a random token from a list and display it to user
+ </summary>
+ <author> Mr. M </author>
+ <date> 20Jun19 </date>
+</member>
+<member name="M:LuckyUnicorn.Module2.Main">
+ <summary>
+     Lucky Unicorn Decomposition Task 1
+     Generate a random token from a list and display it to user
+ </summary>
+ <author> Mr. M </author>
+ <date> 20Jun19 </date>
+</member>
+<member name="M:LuckyUnicorn.Module25_V2.Main">
+ <summary>
+     Lucky Unicorn Decomposition Task 1
+     Generate a random token from a list and display it to user
+ </summary>
+ <author> Mr. M </author>
+ <date> 20Jun19 </date>
 </member>
 </members>
 </doc>

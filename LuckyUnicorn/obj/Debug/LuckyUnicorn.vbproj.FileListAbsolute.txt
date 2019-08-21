@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe.config
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\bin\Debug\LuckyUnicorn.pdb
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\bin\Debug\LuckyUnicorn.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbprojAssemblyReference.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.Resources.resources
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.GenerateResource.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
+C:\Users\Henry\OneDrive - Trinity Schools\Henry's Website\Henry\programming-in-visual-basic-HenryBorthwick\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb
